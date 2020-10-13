@@ -1,0 +1,1595 @@
+{
+  "apiVersion": "v1",
+  "entries": {
+    "aqua-app-enforcer": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-09-02T13:30:10.591411257Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "c7e785e75a7a669436eaaf50592a8b332b683b2165ab1e1209c27cd681603148",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-4.6.3.tgz"
+        ],
+        "version": "4.6.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-02T09:55:10.904359133Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "8564ae2e73ba4ac0b3594e0809608c2bcaee7a8bf371100d9c03e951e4c0c1cd",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-4.6.2.tgz"
+        ],
+        "version": "4.6.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-01T08:07:23.069645025Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "a60818d44c1f17bb8ccee32fe907b330f8935cc515d68abca759fedfc967773a",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-4.6.1.tgz"
+        ],
+        "version": "4.6.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-06-10T08:29:52.269833615Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "ed436fdf9b3d1c3108e759699c169ef2b64313bd5c1f610bb2945b40e1b76610",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-4.6.0.tgz"
+        ],
+        "version": "4.6.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2020-03-12T15:18:25.310856974Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "20ccf45c4450db8ab2dbcad68383cb8b01ba7a903824ddabacedc001166b2fdb",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-0.3.0.tgz"
+        ],
+        "version": "0.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2019-12-18T13:55:55.713325751Z",
+        "description": "A Helm chart for the Aqua Enforcer Components",
+        "digest": "68484485b112a2caf288931d8bc29bd57f65eb7d579d95dcd420987d369db27a",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-enforcer",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-enforcer-0.2.0.tgz"
+        ],
+        "version": "0.2.0"
+      }
+    ],
+    "aqua-app-scanner": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-09-02T13:30:30.667124221Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "3f559b4d86ebc45ee031217e313010afea74b432847601a5e94431280a0da6ac",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-4.6.3.tgz"
+        ],
+        "version": "4.6.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-02T09:55:46.701941361Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "47d9a920b8642a0cb7bfa03cbec9105c7e8a288528bc12c2e47c0f3ee9f5acfe",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-4.6.2.tgz"
+        ],
+        "version": "4.6.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-01T08:07:45.408784897Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "f5413c692b4cb4868d6682948d4316433aab8b3c09a2e90ac3f99b295e7cbf18",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-4.6.1.tgz"
+        ],
+        "version": "4.6.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-06-10T08:30:19.84225789Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "1263b5364064755668e9dc278387e57045c8b69c81975de138489c427a683fd3",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-4.6.0.tgz"
+        ],
+        "version": "4.6.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2020-03-12T15:18:56.64492218Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "3c639ec926b15721c01d6af89b569b28494b0afb71fc35a919f7c2111ac535fe",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-0.3.0.tgz"
+        ],
+        "version": "0.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2019-12-18T13:56:08.855654143Z",
+        "description": "A Helm chart for the Aqua Scanner Components",
+        "digest": "79745ba678a5656c8671076ba4f2dbc653270c27bea3f1418193ad99ba0e79a0",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-scanner",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-scanner-0.2.0.tgz"
+        ],
+        "version": "0.2.0"
+      }
+    ],
+    "aqua-app-server": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-09-02T13:29:42.309787668Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "c7370ac06037884796370803f8bfe1cbca651ddd1f8b63917f4b6e6d8a781a50",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-4.6.3.tgz"
+        ],
+        "version": "4.6.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-02T09:54:15.222280309Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "18487b818159d49f78378bacdd4a5c7c1623319cc7d15664a582d5b62f4572c3",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-4.6.2.tgz"
+        ],
+        "version": "4.6.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-07-01T08:06:31.500913016Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "f078754c79d38a98093d258915db584ffdedd0017ac5e3489fbcdbf2b2b76514",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-4.6.1.tgz"
+        ],
+        "version": "4.6.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.6.0",
+        "created": "2020-06-10T08:28:56.875129281Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "b7035b7e3614526e51e884b90a60d8738109e70e4285350dffd2e5d23ee5ad1e",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-4.6.0.tgz"
+        ],
+        "version": "4.6.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2020-03-12T15:17:58.3075523Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "5ace45faadd6bdd579cdfdbdd73cd885d43de438009265e1a53d671c72aa62df",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-0.3.0.tgz"
+        ],
+        "version": "0.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "4.5.0",
+        "created": "2019-12-18T13:55:35.186298119Z",
+        "description": "A Helm chart for the Aqua Console, Gateway Components",
+        "digest": "0ad66f843fd1d49711a380bbccf821996de070d823977a065773f74391acee68",
+        "home": "https://www.aquasec.com/",
+        "icon": "https://www.aquasec.com/wp-content/uploads/2016/05/aqua_logo_fullcolor.png",
+        "name": "aqua-app-server",
+        "sources": [
+          "https://github.com/aquasecurity/aqua-helm"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/aqua-app-server-0.2.0.tgz"
+        ],
+        "version": "0.2.0"
+      }
+    ],
+    "cert-manager-app": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "1.0.2",
+        "created": "2020-10-05T08:10:58.09129403Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "fb399f239894690c64c7b032379df59b1d4270474c04ff9faa260325a97c9a99",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.3.0.tgz"
+        ],
+        "version": "2.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-09-29T13:02:40.513395209Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "4315e77a7c6daa8cc1481f7bad84e660fa532d84ce53054ec792d21da9da6837",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.2.5.tgz"
+        ],
+        "version": "2.2.5"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-09-29T09:36:01.575734133Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "6392034486a3786c3747b91dd6ea8b6753d3e5d8d943e57c0b697b0b320261c8",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.2.4.tgz"
+        ],
+        "version": "2.2.4"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-09-14T14:11:31.461241654Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "6ebf5bcea71df24bb12bdc171f126eea2fb24d11341c1526677ed7a6522236e7",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.1.4.tgz"
+        ],
+        "version": "2.1.4"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-09-04T14:03:41.579256978Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "033cfb5e34df86457f464a7cafeefea79875102b288a0943eb6ec10b69791692",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.1.3.tgz"
+        ],
+        "version": "2.1.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-09-04T11:26:22.721401897Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "ab69e36dd5f2ea37457f43a61c220b78596b5b71ee7872045ac843bcbf19c30f",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.1.2.tgz"
+        ],
+        "version": "2.1.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-08-19T09:46:47.985472329Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "e6783ca2deeae862b8053274e89db62e44312d96e9122ce882f1e0ffc549e097",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.1.1.tgz"
+        ],
+        "version": "2.1.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.16.1",
+        "created": "2020-08-17T08:21:08.320354413Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "0fd7feb31c1e0f2bea46285ca68d22238b6ff88d2ce8c9c131fbe424ef1d55e3",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.1.0.tgz"
+        ],
+        "version": "2.1.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.15.2",
+        "created": "2020-07-29T10:32:54.23062872Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "31ca63a3ba03c21d03844c37b9dff0f38ec1ebbf2fc2a47c8cd483352a1e0675",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.0.2.tgz"
+        ],
+        "version": "2.0.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.15.2",
+        "created": "2020-07-28T12:21:00.497935088Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "c71d516e49cb541739f347b1a248f3521c6a5731383fcbfbe7ba18a17c354a91",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.0.1.tgz"
+        ],
+        "version": "2.0.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.15.2",
+        "created": "2020-07-22T10:52:48.744683949Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "522c48a6021e91e62b8626c6cb3f1a3b92f8765372f39a546c8c2a4ff69c8501",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "sources": [
+          "https://github.com/jetstack/cert-manager"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-2.0.0.tgz"
+        ],
+        "version": "2.0.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.9.0",
+        "created": "2020-10-01T08:02:34.81415183Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "62e7a0c6531eb15646eac0ef9013d37f4330be9cd1d5fb6a924e98ea7555a588",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.1.0.tgz"
+        ],
+        "version": "1.1.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.9.0",
+        "created": "2020-05-01T09:36:38.302504573Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "e0e025f7d0b01b102186d0f120ecd3b1a158d7858334597d709066cb16caf0ab",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.8.tgz"
+        ],
+        "version": "1.0.8"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.9.0",
+        "created": "2020-04-09T15:16:07.519750855Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "d802123e51614a5ed86dac7e6c2cefed83a066e35d34f3b407072460b94f1d86",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.7.tgz"
+        ],
+        "version": "1.0.7"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.9.0",
+        "created": "2020-02-28T09:03:22.785010713Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "3d575cda4699cff6cb0c9db09f1fecdf3000cdc83051cbac20bbb0797a06c377",
+        "home": "https://github.com/giantswarm/cert-manager-app",
+        "icon": "https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.6.tgz"
+        ],
+        "version": "1.0.6"
+      },
+      {
+        "appVersion": "0.9.0",
+        "created": "2020-02-19T13:16:07.448399076Z",
+        "description": "A Helm chart for cert-manager",
+        "digest": "32d15548733b2bd2ffd7a4b8e5417d2a58f8e5be6ec74f6855291026b1ac9b49",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.5.tgz"
+        ],
+        "version": "1.0.5"
+      },
+      {
+        "appVersion": "0.9.0",
+        "created": "2020-01-15T12:40:49.373838264Z",
+        "description": "Certificate management controller",
+        "digest": "7b7159ee058837c5f22680168986ae9bd3194c1830b062806f78a512e5bd4bd3",
+        "home": "https://github.com/jetstack/cert-manager",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.4.tgz"
+        ],
+        "version": "1.0.4"
+      },
+      {
+        "appVersion": "0.9.0",
+        "created": "2020-01-03T21:20:08.651635088Z",
+        "description": "Certificate management controller",
+        "digest": "050ac196bbc3d565aa07986f941b5af55564690ea46d143377d5aeaff16c59c3",
+        "home": "https://github.com/jetstack/cert-manager",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.3.tgz"
+        ],
+        "version": "1.0.3"
+      },
+      {
+        "appVersion": "0.9.0",
+        "created": "2019-12-27T12:56:39.18904853Z",
+        "description": "Certificate management controller",
+        "digest": "32328d3f26a1d97a7bf0a41526347825850c8eab756280c7ec1682c9b4544c4e",
+        "home": "https://github.com/jetstack/cert-manager",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.2.tgz"
+        ],
+        "version": "1.0.2"
+      },
+      {
+        "appVersion": "0.9.0",
+        "created": "2019-12-04T11:35:06.700889121Z",
+        "description": "Certificate management controller",
+        "digest": "918022cab4f4d1a73e8fbc46819b46e16ea30d155cf0669e3885a2b874950a21",
+        "home": "https://github.com/jetstack/cert-manager",
+        "name": "cert-manager-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/cert-manager-app-1.0.1.tgz"
+        ],
+        "version": "1.0.1"
+      }
+    ],
+    "efk-stack-app": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "1.9.0",
+        "created": "2020-09-15T09:47:37.734282152Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "569539356a14bfd419e110c5a2bbf1b1903d0bf05f19747b5e94c77da3a248e3",
+        "home": "https://github.com/giantswarm/efk-stack-app",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app",
+          "https://raw.githubusercontent.com/giantswarm/efk-stack-app/v0.3.2/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.3.2.tgz"
+        ],
+        "version": "0.3.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "1.9.0",
+        "created": "2020-09-11T10:33:03.029072316Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "90beb6f7d94a8fe076240eb93ea80ccf392e62d64407ee88ad2f274607513215",
+        "home": "https://github.com/giantswarm/efk-stack-app",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app",
+          "https://raw.githubusercontent.com/giantswarm/efk-stack-app/v0.3.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.3.1.tgz"
+        ],
+        "version": "0.3.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "1.9.0",
+        "created": "2020-09-04T12:29:28.721032979Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "823e476bafb76e487c41f2e71a7f70ffdcb652f62f776da30f5693b65a8a48d9",
+        "home": "https://github.com/giantswarm/efk-stack-app",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app",
+          "https://raw.githubusercontent.com/giantswarm/efk-stack-app/v0.3.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.3.0.tgz"
+        ],
+        "version": "0.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "1.3.0",
+        "created": "2020-04-21T14:46:10.28234474Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "ae22c858b8fcbfe9024e1ce9334ba7074b2163c3f82b116bb1b1097640ebad1b",
+        "home": "https://github.com/giantswarm/efk-stack-app",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.2.0.tgz"
+        ],
+        "version": "0.2.0"
+      },
+      {
+        "appVersion": "1.3.0",
+        "created": "2020-02-19T10:38:01.788112906Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "1c784c9bec76a76cd8a2635ecbdb2ed14bb6f53975c7eeba0e230b49c6806e54",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.1.5.tgz"
+        ],
+        "version": "0.1.5"
+      },
+      {
+        "appVersion": "1.3.0",
+        "created": "2020-02-19T10:14:16.205993029Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "02f0bea03d56259626847170d2892eb98d1f497301479b05de6678957803b70d",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.1.4.tgz"
+        ],
+        "version": "0.1.4"
+      },
+      {
+        "appVersion": "1.3.0",
+        "created": "2020-02-10T08:18:03.807462103Z",
+        "description": "Open Distro for Elasticsearch",
+        "digest": "06942f902fdd0c576a30a32f6b8618919f2fe01bf16824b0565594f035ca8b1c",
+        "icon": "https://github.com/giantswarm/efk-stack-app/raw/master/images/logo.png",
+        "maintainers": [
+          {
+            "name": "Giant Swarm applications team",
+            "url": "https://github.com/giantswarm/efk-stack-app"
+          }
+        ],
+        "name": "efk-stack-app",
+        "sources": [
+          "https://github.com/giantswarm/efk-stack-app"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/efk-stack-app-0.1.3.tgz"
+        ],
+        "version": "0.1.3"
+      }
+    ],
+    "kong-app": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.1.3",
+        "created": "2020-09-07T08:35:16.492714298Z",
+        "dependencies": [
+          {
+            "condition": "postgresql.enabled",
+            "name": "postgresql",
+            "repository": "https://charts.bitnami.com/bitnami",
+            "version": "8.6.8"
+          }
+        ],
+        "description": "The Cloud-Native Ingress and API-management",
+        "digest": "345230c81206a2a61d52336757e84fd4ad51af0a9e46cc30e94afef719f5ac3a",
+        "home": "https://konghq.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.9.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.9.1.tgz"
+        ],
+        "version": "0.9.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.1.3",
+        "created": "2020-08-25T10:55:49.835455532Z",
+        "dependencies": [
+          {
+            "condition": "postgresql.enabled",
+            "name": "postgresql",
+            "repository": "https://charts.bitnami.com/bitnami",
+            "version": "8.6.8"
+          }
+        ],
+        "description": "The Cloud-Native Ingress and API-management",
+        "digest": "adf72b9020c5b105ebce7a0fbdd04ea77ad96fac0cff3d1b27463be299b58656",
+        "home": "https://konghq.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.9.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.9.0.tgz"
+        ],
+        "version": "0.9.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.4",
+        "created": "2020-06-17T12:54:04.509480032Z",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "c5c0bfe6407aaaaad27449ca6e772ff2f0f7f90f40ec5eb7c18bec4b07b05c57",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong",
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.8.3/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.8.3.tgz"
+        ],
+        "version": "0.8.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.4",
+        "created": "2020-06-17T11:59:19.850177723Z",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "996cf3608614b9e3f81e02f8168525822c0655872fa7c8cb09533f64ab4ccdd6",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong",
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.8.2/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.8.2.tgz"
+        ],
+        "version": "0.8.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.4",
+        "created": "2020-06-02T17:30:02.267926677Z",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "947c12f88b386b81000480ea4eb99b626a9551c860bb269437639b147c5771b9",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong",
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.8.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.8.1.tgz"
+        ],
+        "version": "0.8.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.4",
+        "created": "2020-05-26T11:55:15.021326039Z",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "b5ebc142c19cfe4343e244f943af4b8f02087b5e20b41479aef0b669ebf116ff",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong",
+          "https://raw.githubusercontent.com/giantswarm/kong-app/v0.8.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.8.0.tgz"
+        ],
+        "version": "0.8.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.1",
+        "created": "2020-03-31T22:58:11.58272707+01:00",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "81862095c8862faeb8c1a1a236790a9fa0efb3734d68aefd769af2b71b5137d8",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/kong-app-0.7.2.tgz"
+        ],
+        "version": "0.7.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "2.0.1",
+        "created": "2020-03-01T22:57:36.452560583Z",
+        "description": "The Cloud-Native Ingress and Service Mesh for APIs and Microservices",
+        "digest": "a3a946f849077dbee1942e2450a04beca3a6efaca0f2860bf7f5529046c1834f",
+        "home": "https://KongHQ.com/",
+        "icon": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png",
+        "name": "kong-app",
+        "sources": [
+          "https://github.com/Kong/kong"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-incubator-catalog/kong-app-0.7.1.tgz"
+        ],
+        "version": "0.7.1"
+      }
+    ],
+    "nginx-ingress-controller-app": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.40.2",
+        "created": "2020-10-07T09:23:48.159841347Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "4059c49c8d0ede420efb0da4ebed8f227e21e347ed88741b90a76b903e2ab5b1",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "kubeVersion": ">=1.16.0-0",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.10.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.10.0.tgz"
+        ],
+        "version": "1.10.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.35.0",
+        "created": "2020-09-02T09:40:39.223638219Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "bc2c7845e2a0c1046bfb4953072df9c05ffe6791fd842bf4eb9c38ca9ed0e120",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.9.2/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.9.2.tgz"
+        ],
+        "version": "1.9.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-08-14T07:15:17.455154649Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "2133c33599aa143953b5d20b94c314df5802fd47b523c7b3b03c5dc1ea0a525d",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.9.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.9.1.tgz"
+        ],
+        "version": "1.9.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-08-13T11:46:45.421989304Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "2455ec13be5559e109b78ecbcda5d4687bd0ec4d4507c2435930db22a693e197",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.9.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.9.0.tgz"
+        ],
+        "version": "1.9.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-08-06T16:05:48.057628666Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "ddd37da28c497150f2de318ddd08df905c60750d658126415894cef0dd214d4d",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.8.4/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.8.4.tgz"
+        ],
+        "version": "1.8.4"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-07-31T15:13:48.188580308Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "39c85c881a9095ff9038aebd28009cfd0ae9537b9c84bfd2896462f4e076aeec",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.8.3/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.8.3.tgz"
+        ],
+        "version": "1.8.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-07-31T13:43:36.590507307Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "cd568fa51d167a354ad1308884fa905fc1a3b82b84b0f07be14f006a94533646",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.8.2/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.8.2.tgz"
+        ],
+        "version": "1.8.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-07-28T12:47:05.067764155Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "fe958d4a1054b307ea745cdd12ccbddf7b1c2802baa24a61df813f81573c181a",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.8.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.8.1.tgz"
+        ],
+        "version": "1.8.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-07-24T12:58:40.033760055Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "1dcf8abe59f6438539f41c8ec78284147b78efe0dfa7f9411cdf758faecdd726",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.8.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.8.0.tgz"
+        ],
+        "version": "1.8.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.1",
+        "created": "2020-07-16T13:41:14.780839172Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "5e10b306bec90dc2bdccc4b04302d5da2b1288ee54b3e7539787da83ec683d4e",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.7.3/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.7.3.tgz"
+        ],
+        "version": "1.7.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.34.0",
+        "created": "2020-07-10T14:48:51.042466878Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "d03ca3e3430aef24f37bafef95fca4399b395b77d893e06c85809c91480d45ab",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.7.2/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.7.2.tgz"
+        ],
+        "version": "1.7.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.33.0",
+        "created": "2020-07-07T15:40:54.381172751Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "847d0d1906efe830e43f1b25c876344bf6d9bdd35c83914f8908ab5841c2790e",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.7.1/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.7.1.tgz"
+        ],
+        "version": "1.7.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.33.0",
+        "created": "2020-06-29T13:54:12.046037501Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "be2d1592237f9a826e43518aa4214f7f2952a2946a587597e94f20de0e4eaa80",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.7.0/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.7.0.tgz"
+        ],
+        "version": "1.7.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-06-03T08:17:43.966179395Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "df9d53e8b2dfc7116000b6c66e3d1b74a8dc6f19ee2da07e8935e9d47ba9dea4",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.6.12/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.12.tgz"
+        ],
+        "version": "1.6.12"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-05-27T09:49:54.076956332Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "784d5a5345a862e42dad1728cd3d639fe7d27ebc09a39aeb44f6e2d0398d6372",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.6.11/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.11.tgz"
+        ],
+        "version": "1.6.11"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-04-29T16:50:55.987861161Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "1541cb4a99475b4174b80aaaa6dd3ed7df34ed0d01a62bb317ca4e491eb9f221",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.6.10/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.10.tgz"
+        ],
+        "version": "1.6.10"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-04-22T08:14:47.581484647Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "163f58bf0228233bd5fe80685829e2b63710abebc7e11fa4013d02747a223f28",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/v1.6.9/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.9.tgz"
+        ],
+        "version": "1.6.9"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-04-09T09:34:29.339729067Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "683ea1cd3f8db464108306fd5961cfca6bf6ded2697eb1fe23b846accda4277b",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/nginx-ingress-controller-app/1.6.8/README.md"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.8.tgz"
+        ],
+        "version": "1.6.8"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-04-07T22:12:40.870691722Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "544ec0309c3d368a4cecfd965c66dd69c473c0d300e9dcdfffb019b7aa18faca",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.7.tgz"
+        ],
+        "version": "1.6.7"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-04-01T11:18:59.897348223Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "3cf5971c37e349b98ff5d5df70105513160d038c71be5029368cf21cbe174d66",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.6.tgz"
+        ],
+        "version": "1.6.6"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-03-23T08:32:21.97014288Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "f02d047067d90def07ada0dddd2575750bc5d3c02d687e53da47b0da8a7c153c",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.5.tgz"
+        ],
+        "version": "1.6.5"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-03-17T15:13:25.896247271Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "a079a739ff0bff1dffb6935bebaa48ca7a4cc6243addc98fd120e18f50da9521",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.4.tgz"
+        ],
+        "version": "1.6.4"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-03-17T11:45:25.092365966Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "de3e28c94a5c0663d369642655a38f96815b78a381b1e35a9e18ac49cf228b77",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.3.tgz"
+        ],
+        "version": "1.6.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-03-12T01:25:58.355485327Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "debbf3e4f933a52efdd2115d20aff145b13793f38e4168b332f93153f80f31e1",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.2.tgz"
+        ],
+        "version": "1.6.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-03-10T15:13:39.985966719Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "998fd6c89791f9812ed1bfb3cef8f2354115523d30386d73a5d105ab26685a7c",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.1.tgz"
+        ],
+        "version": "1.6.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.30.0",
+        "created": "2020-02-28T08:59:19.285920184Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "6395d731212a7e5f114b58f6bff291fe57b765135c8874d91c6818d9e48cb62c",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.6.0.tgz"
+        ],
+        "version": "1.6.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.29.0",
+        "created": "2020-02-18T10:47:28.492287862Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "f4053fb47ff55bd0b79d2a3488df2338c461d542fa958b86436e9a272c1fda9f",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.5.0.tgz"
+        ],
+        "version": "1.5.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.28.0",
+        "created": "2020-02-10T12:29:39.770096243Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "d33a5f0555dee29a6ac74dcc7d49d832422cfe28d6ec1ad1ea280ff3e3839ac0",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.4.0.tgz"
+        ],
+        "version": "1.4.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.27.1",
+        "created": "2020-01-30T13:40:04.609140383Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "27ec60eb597f5bb530151a868fe701bea8c9399910530b3e47de1c5490377e85",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.3.0.tgz"
+        ],
+        "version": "1.3.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.27.1",
+        "created": "2020-01-29T14:32:20.209741967Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "637c86e2fc8f3891100c2ca0bd4788676d7966ecbe3fbf21fbb54349c80f26c4",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.2.1.tgz"
+        ],
+        "version": "1.2.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.27.1",
+        "created": "2020-01-21T16:52:29.652976781Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "e1061e00210f0df1ed0cfb41b07f6b792eea67b2be33e3ebde747fd949be19a2",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.2.0.tgz"
+        ],
+        "version": "1.2.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.26.1",
+        "created": "2020-01-04T12:51:45.418762241Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "017467cf56d011460877407d313330e928cb04601ae5267ab9f350afd728732c",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.1.1.tgz"
+        ],
+        "version": "1.1.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.26.1",
+        "created": "2019-11-15T14:20:19.075914749Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "ad899db4721159ebaf70d3126d3ba20eb808a67b332d9fee3a1ce06abb2f01c2",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-1.1.0.tgz"
+        ],
+        "version": "1.1.0"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.25.1",
+        "created": "2019-10-28T11:56:20.000452981Z",
+        "description": "A Helm chart for the nginx ingress-controller",
+        "digest": "c5c11d1277934f08413f84b4da0f307684c71617b16b37f98da4ebd6afc9a9e5",
+        "home": "https://github.com/giantswarm/nginx-ingress-controller-app",
+        "name": "nginx-ingress-controller-app",
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/nginx-ingress-controller-app-0.12.0.tgz"
+        ],
+        "version": "0.12.0"
+      }
+    ],
+    "prometheus-operator-app": [
+      {
+        "apiVersion": "v1",
+        "appVersion": "0.38.1",
+        "created": "2020-07-23T06:36:29.210931575Z",
+        "dependencies": [
+          {
+            "condition": "kubeStateMetrics.enabled",
+            "name": "kube-state-metrics",
+            "repository": "https://kubernetes-charts.storage.googleapis.com/",
+            "version": "2.8.*"
+          },
+          {
+            "condition": "nodeExporter.enabled",
+            "name": "prometheus-node-exporter",
+            "repository": "https://kubernetes-charts.storage.googleapis.com/",
+            "version": "1.10.*"
+          },
+          {
+            "condition": "grafana.enabled",
+            "name": "grafana",
+            "repository": "https://kubernetes-charts.storage.googleapis.com/",
+            "version": "5.3.*"
+          }
+        ],
+        "description": "Provides easy monitoring definitions for Kubernetes services, and deployment and management of Prometheus instances.",
+        "digest": "f9035bda0bef7f7ccb3f5a3d6fddee9a69c4bfa92434e8e17ea11bcb9cbbf899",
+        "home": "https://github.com/giantswarm/prometheus-operator-app",
+        "icon": "https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png",
+        "keywords": [
+          "operator",
+          "prometheus"
+        ],
+        "name": "prometheus-operator-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/prometheus-operator-app/v0.3.4/README.md",
+          "https://github.com/coreos/kube-prometheus",
+          "https://github.com/coreos/prometheus-operator",
+          "https://coreos.com/operators/prometheus"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/prometheus-operator-app-0.3.4.tgz"
+        ],
+        "version": "0.3.4"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.38.1",
+        "created": "2020-06-16T11:44:55.302492891Z",
+        "description": "Provides easy monitoring definitions for Kubernetes services, and deployment and management of Prometheus instances.",
+        "digest": "02b8c4b51516c0d9dd90353c291f6e4bd416e7d2839457397baab48fef1f21b8",
+        "home": "https://github.com/giantswarm/prometheus-operator-app",
+        "icon": "https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png",
+        "keywords": [
+          "operator",
+          "prometheus"
+        ],
+        "name": "prometheus-operator-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/prometheus-operator-app/v0.3.3/README.md",
+          "https://github.com/coreos/kube-prometheus",
+          "https://github.com/coreos/prometheus-operator",
+          "https://coreos.com/operators/prometheus"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/prometheus-operator-app-0.3.3.tgz"
+        ],
+        "version": "0.3.3"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.38.1",
+        "created": "2020-05-27T14:44:39.849775345Z",
+        "description": "Provides easy monitoring definitions for Kubernetes services, and deployment and management of Prometheus instances.",
+        "digest": "266abdcecc32f52f3d1e0754e73cf9d39ec16099022fe8d255cec23c993f1305",
+        "home": "https://github.com/giantswarm/prometheus-operator-app",
+        "icon": "https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png",
+        "name": "prometheus-operator-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/prometheus-operator-app/v0.3.2/README.md",
+          "https://github.com/coreos/kube-prometheus",
+          "https://github.com/coreos/prometheus-operator",
+          "https://coreos.com/operators/prometheus"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/prometheus-operator-app-0.3.2.tgz"
+        ],
+        "version": "0.3.2"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.38.1",
+        "created": "2020-05-20T14:17:29.667307043Z",
+        "description": "Provides easy monitoring definitions for Kubernetes services, and deployment and management of Prometheus instances.",
+        "digest": "1228568a677fe46aa031982b7bab168a307f4e5aa71de0190175b0065875524e",
+        "home": "https://github.com/giantswarm/prometheus-operator-app",
+        "icon": "https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png",
+        "name": "prometheus-operator-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/prometheus-operator-app/v0.3.1/README.md",
+          "https://github.com/coreos/kube-prometheus",
+          "https://github.com/coreos/prometheus-operator",
+          "https://coreos.com/operators/prometheus"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/prometheus-operator-app-0.3.1.tgz"
+        ],
+        "version": "0.3.1"
+      },
+      {
+        "apiVersion": "v1",
+        "appVersion": "v0.38.1",
+        "created": "2020-05-20T13:05:59.477841088Z",
+        "description": "Provides easy monitoring definitions for Kubernetes services, and deployment and management of Prometheus instances.",
+        "digest": "520e4d43b1131f140f70f948aa40657b331bc0532a1fcdb7edc8f779aa100c2a",
+        "home": "https://github.com/giantswarm/prometheus-operator-app",
+        "icon": "https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png",
+        "name": "prometheus-operator-app",
+        "sources": [
+          "https://raw.githubusercontent.com/giantswarm/prometheus-operator-app/v0.3.0/README.md",
+          "https://github.com/coreos/kube-prometheus",
+          "https://github.com/coreos/prometheus-operator",
+          "https://coreos.com/operators/prometheus"
+        ],
+        "urls": [
+          "https://giantswarm.github.com/giantswarm-catalog/prometheus-operator-app-0.3.0.tgz"
+        ],
+        "version": "0.3.0"
+      }
+    ]
+  },
+  "generated": "2020-10-07T09:23:48.158289331Z"
+}

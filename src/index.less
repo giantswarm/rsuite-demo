@@ -1,0 +1,93 @@
+@import '~rsuite/lib/styles/themes/dark/index.less';
+
+// Primary accent color
+@base-color: #009fff;
+
+@body-bg: #002339;
+@primary-bg-color: #002339;
+
+@B000: #eee;
+@B050: #ddd;
+@B100: #008ee4;
+@B200: #007dc9;
+@B300: #006daf;
+@B400: #005d96;
+@B500: #004e7d;
+@B600: #003f65;
+@B700: #00314f;
+@B800: #002339;  // same as background, to make tables appear transparent
+//@B900: red;
+
+@terminal-bg-color: #1c1b19;
+
+// Standard radius for rounded corners
+@border-radius-base: 4px;
+
+@font-family-base: 'Roboto', sans-serif;
+@font-size-base: 16px;
+
+// Disable ripple effect on buttons
+@button-ripple: false;
+
+// Typography
+code {
+    font-family: Inconsolata, monospace;
+}
+h5 {
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+p {
+    margin-top: 10px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    margin-bottom: 10px;
+}
+
+// Nav
+.rs-nav .rs-dropdown .rs-dropdown-menu-active ~ .rs-dropdown-toggle, .rs-nav .rs-nav-item-active > .rs-nav-item-content, .rs-nav .rs-dropdown .rs-dropdown-menu-active ~ .rs-dropdown-toggle:hover, .rs-nav .rs-nav-item-active > .rs-nav-item-content:hover, .rs-nav .rs-dropdown .rs-dropdown-menu-active ~ .rs-dropdown-toggle:focus, .rs-nav .rs-nav-item-active > .rs-nav-item-content:focus, .rs-nav .rs-dropdown .rs-dropdown-menu-active ~ .rs-dropdown-toggle:active, .rs-nav .rs-nav-item-active > .rs-nav-item-content:active {
+    color: #fff;
+    font-weight: 700;
+}
+
+// Tables
+
+.rs-table-cell-header {
+    text-transform: uppercase;
+}
+
+.clusters-table .rs-table-body-row-wrapper .rs-table-row {
+    cursor: pointer;
+}
+
+// Automation panel
+
+.rs-panel.gs-automation-panel {
+    margin-top: 40px;
+    background-color: @terminal-bg-color;
+}
+
+
+.singlestat {
+    width: 200px;
+    margin: 5px;
+    display: inline-block;
+    .rs-panel-heading {
+        font-size: 12px;
+        text-transform: uppercase;
+        padding-bottom: 0;
+    }
+    .rs-panel-body {
+        text-align: right;
+        padding-bottom: 10px;
+    }
+    .number {
+        font-size: 50px;
+        font-weight: 700;
+        color: @base-color;
+    }
+    .unit {
+        color: @base-color;
+    }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f772p",
+    "name": "PROD k8s 1.16",
+    "release_version": "11.5.6",
+    "kubernetes_version": "1.16",
+    "owner": "webshop",
+    "created": "2020-09-23T14:34:03.737Z",
+    "worker_nodes": 27,
+    "cpus": 108,
+    "memory": 216,
+    "masters": 3,
+    "condition": "Created"
+  },
+  {
+    "id": "r4oio",
+    "name": "Staging k8s 1.16",
+    "release_version": "11.5.6",
+    "kubernetes_version": "1.16",
+    "owner": "webshop",
+    "created": "2020-09-23T14:44:03.737Z",
+    "worker_nodes": 3,
+    "cpus": 12,
+    "memory": 24,
+    "masters": 1,
+    "condition": "Created"
+  },
+  {
+    "id": "3xpq2",
+    "name": "Staging k8s 1.17",
+    "release_version": "12.3.1",
+    "kubernetes_version": "1.17",
+    "owner": "webshop",
+    "created": "2020-09-23T14:44:03.737Z",
+    "worker_nodes": 4,
+    "cpus": 16,
+    "memory": 32,
+    "masters": 3,
+    "condition": "Created"
+  },
+  {
+    "id": "1oor0",
+    "name": "Test k8s 1.18",
+    "release_version": "12.3.0",
+    "kubernetes_version": "1.17",
+    "owner": "testlab",
+    "created": "2020-10-02T09:22:56.193Z",
+    "worker_nodes": 3,
+    "cpus": 12,
+    "memory": 24,
+    "masters": 1,
+    "condition": "Updating"
+  },
+  {
+    "id": "j44sa",
+    "name": "PROD k8s 1.15",
+    "release_version": "9.0.9",
+    "kubernetes_version": "1.15",
+    "owner": "legacy",
+    "created": "2018-07-12T17:11:06.001Z",
+    "worker_nodes": 9,
+    "cpus": 36,
+    "memory": 72,
+    "masters": 1,
+    "condition": "Created"
+  }
+]
